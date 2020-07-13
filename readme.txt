@@ -18,4 +18,4 @@ git checkout -b <name> 或者 git switch -c <name>
 Creating a new branch is quick AND simple.
 
 修改分支
-
+Creating a new branch is quick & simple.
