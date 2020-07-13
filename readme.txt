@@ -19,3 +19,5 @@ Creating a new branch is quick AND simple.
 
 ÐÞ¸Ä·ÖÖ§
 
+Creating a new branch is quick AND simple.
+
